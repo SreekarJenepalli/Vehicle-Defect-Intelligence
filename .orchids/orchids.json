@@ -1,0 +1,7 @@
+{
+  "startupCommands": [
+    "npm install --legacy-peer-deps; npm run dev -- --host 0.0.0.0 --port 5173"
+  ],
+  "projectId": "ded6c87c-05f2-44dc-ab4e-9e0c6faad557",
+  "templateId": "any"
+}
